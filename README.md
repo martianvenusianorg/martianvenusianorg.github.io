@@ -1,4 +1,4 @@
-## [CPP]()
+## [CPP](https://martianvenusianorg.github.io/cpp_uz/)
 
 _Bu yerda siz c++ dasturlash tiliga doir bilimlarni o'rganasiz_
 
